@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.BatchInputSimplePublicObjectBatchInput = exports.BatchInputSimplePublicObjectInputForCreate = exports.BatchInputSimplePublicObjectId = exports.BatchReadInputSimplePublicObjectId = void 0;
+var BatchReadInputSimplePublicObjectId_1 = require("./BatchReadInputSimplePublicObjectId");
+Object.defineProperty(exports, "BatchReadInputSimplePublicObjectId", { enumerable: true, get: function () { return BatchReadInputSimplePublicObjectId_1.BatchReadInputSimplePublicObjectId; } });
+var BatchInputSimplePublicObjectId_1 = require("./BatchInputSimplePublicObjectId");
+Object.defineProperty(exports, "BatchInputSimplePublicObjectId", { enumerable: true, get: function () { return BatchInputSimplePublicObjectId_1.BatchInputSimplePublicObjectId; } });
+var BatchInputSimplePublicObjectInputForCreate_1 = require("./BatchInputSimplePublicObjectInputForCreate");
+Object.defineProperty(exports, "BatchInputSimplePublicObjectInputForCreate", { enumerable: true, get: function () { return BatchInputSimplePublicObjectInputForCreate_1.BatchInputSimplePublicObjectInputForCreate; } });
+var BatchInputSimplePublicObjectBatchInput_1 = require("./BatchInputSimplePublicObjectBatchInput");
+Object.defineProperty(exports, "BatchInputSimplePublicObjectBatchInput", { enumerable: true, get: function () { return BatchInputSimplePublicObjectBatchInput_1.BatchInputSimplePublicObjectBatchInput; } });
